@@ -7,17 +7,27 @@ import Slider from "../components/Slider";
 import PerCard from "../components/PerCard";
 import Beril from "../images/Beril.jpg";
 //Büyük etkinlik fotoğrafları
-import Sliderap1 from "../images/21.png";
-import Sliderap2 from "../images/16.png";
-import Sliderap3 from "../images/BurcuEsmersoy.jpg";
-import Deney from "../images/Deney5.jpg";
+import Sliderap1 from "../images/cs/cs.png";
+import Sliderap2 from "../images/cs/cs1.png";
+import Sliderap3 from "../images/cs/cs2.png";
+import Sliderap4 from "../images/cs/bilisim_vadisi_saykal.jpg";
+import Sliderap5 from "../images/cs/bilisim_vadisi_saykal_toplu.jpg";
+import Sliderap6 from "../images/cs/Bilisim_vadisi.jpg";
+import Sliderap7 from "../images/cs/geek_night.jpg";
+
 const CS = () => {
   //1. Fotoğraf slider fotoğrafları
   const SliderAPhotoList = [
     {key : 1 , value : Sliderap1},
     {key : 2 , value : Sliderap2},
     {key : 3 , value : Sliderap3},
-    {key : 4 , value : Deney},
+    
+  ]
+  const SliderAPhotoList2 = [
+    {key : 1 , value : Sliderap4},
+    {key : 2 , value : Sliderap5},
+    {key : 3 , value : Sliderap6},
+    {key : 4 , value : Sliderap7},
   ]
   return (
     <div>       
@@ -94,7 +104,7 @@ const CS = () => {
             <Col className = "justify-content-center align-items-center" lg={11}>
                       {/*diğer etkinlikler fotoğrafları verilecek*/}
 
-            <Slider  photos = {SliderAPhotoList}/>
+            <Slider  photos = {SliderAPhotoList2}/>
 
             </Col>
           </Row>

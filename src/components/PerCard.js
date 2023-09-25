@@ -21,9 +21,9 @@ function PerCard(props){
       </ListGroup>
       <Card.Body  style={{textAlign : "center"}}>
         <Card.Link href={props.insta}><IoLogoInstagram size = "28"/></Card.Link>
-        <Card.Link href="#"><IoMailOutline size = "31"/></Card.Link>
-        <Card.Link href="#"><IoLogoLinkedin size = "27"/></Card.Link>
-        <Card.Link href="#"><IoLogoTwitter size ="26"/></Card.Link>
+        <Card.Link href={props.mail}><IoMailOutline size = "31"/></Card.Link>
+        <Card.Link href={props.linked}><IoLogoLinkedin size = "27"/></Card.Link>
+        <Card.Link href={props.twit}><IoLogoTwitter size ="26"/></Card.Link>
       </Card.Body>
     </Card>
 

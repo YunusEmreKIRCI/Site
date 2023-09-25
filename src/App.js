@@ -12,18 +12,20 @@ import IHA from "./pages/IHA";
 import SUALTI from "./pages/SUALTI";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import WhoWeAre from "./pages/WhoWeAre";
-import SliderBigp1 from "./images/21.png";
-import SliderBigp2 from "./images/16.png";
-import SliderBigp3 from "./images/BurcuEsmersoy.jpg";
-import Deney from "./images/Deney5.jpg";
+import SliderBigp1 from "./images/karışık en üst etkinlikler/4.png";
+import SliderBigp2 from "./images/karışık en üst etkinlikler/5.png";
+import SliderBigp4 from "./images/karışık en üst etkinlikler/6.png";
+import SliderBigp5 from "./images/karışık en üst etkinlikler/7.png";
+import SliderBigp6 from "./images/karışık en üst etkinlikler/8.png";
 import SliderBig from "./components/SliderBig";
 
 function App() {
   const SliderBigPhotoList = [
     {key : 1 , value : SliderBigp1},
     {key : 2 , value : SliderBigp2},
-    {key : 3 , value : SliderBigp3},
-    {key : 4 , value : Deney},
+    {key : 4 , value : SliderBigp4},
+    {key : 5 , value : SliderBigp5},
+    {key : 6 , value : SliderBigp6},
   ]
   return (
     

@@ -1,0 +1,245 @@
+CS Diğer etkinliklerimiz
+
+Geeks Night
+Bu formatımız geçen yıl olduğu gibi bu yılda devam edecek. YouTube üzerinden canlı gerçekleştirdiğimiz formatımıza daha çok yurtdışı bağlantılı konuklarımızı davet edip onlaarla soru cevap etkinliği düzenleyeceğiz.
+
+Teknik Eğitimler ve Teknik Geziler
+
+  Üyelerimize hem bölümdeki derslerine yardımcı olacak hem de kariyer gelişimlerini olumlu yönde etkileyecek şekilde eğitimler düzenleyeceğiz. Bu sayede birlikte öğrenip akademik hayatımıza katkı saylayacağız.
+ üyelerimize mezun olmadan önce çalışacakalrı ortam hakkında bilgi vermek ve okulda alınan teorik bilginin uygulamaya nasıl dönüştüğünü göstermek amacıyla teknik geziler düzenleyeceğiz.
+
+
+
+PES
+
+IEEE PES (Power & Energy Society), IEEE'nin güç ve
+enerji alanında uzmanlaşmış bir komitesidir. PES,
+elektrik enerjisi, enerji sistemleri ve elektrik güç
+teknolojileri gibi konularla ilgilenen mühendisler ve
+araştırmacılar arasında bir platform sağlamayı amaçlar.
+Komite, güç sistemleri, enerji üretimi ve dağıtımı, enerji
+verimliliği, yenilenebilir enerji kaynakları, akıllı
+şebekeler gibi birçok konuda çalışmalar yapar ve bu
+alandaki araştırmaları destekler. Teknik konferanslar,
+seminerler, eğitim programları ve yayınlar aracılığıyla
+bilgi paylaşımını teşvik eder. Ayrıca endüstri liderleri,
+araştırmacılar ve mühendisler arasında etkileşimi
+arttıran ağ oluşturma fırsatları sunar. PES'in amacı,
+enerji sektöründe güncel sorunları ele almak, güç
+sistemlerinin güvenliğini, sürdürülebilirliğini ve
+verimliliğini arttırmak için çözümler üretmek ve
+geleceğin enerji sistemlerine yönelik inovasyonları
+teşvik etmektir. Enerji alanında kariyer yapmak isteyen
+mühendisler, araştırmacılar ve ilgilenen diğer
+profesyoneller için büyük bir değer sunan bir
+topluluktur. Enerji sektöründeki teknolojik ilerlemeleri
+yakından takip etmek, bilgi ve deneyim paylaşımı
+yapmak ve sektördeki en son gelişmeleri öğrenmek
+isteyenlere yönelik bir platform olarak faaliyet gösterir.
+
+Sektör günleri
+
+Bu yıl onuncusunu düzenlemeyi planladığımız gelenekselleşmiş etkinliğimiz olan Sektör Günleri'ni 6-7 Aralık tarihlerinde gerçekleştirmeyi planlıyoruz. Katılımcılarıyla sadece elektrik ve elektronik alanında değil birçok alanda ilgi uyandıran bu salon etkinliği, sektöre dair güncel konuların ele alınacağı bir platform sunacak.
+
+Diğer Etkinliklerimiz(pes)
+
+Tea&talk
+Etkinliğimizin amacı, salon etkinliklerinde bulunmayan daha samimi bir ortamı daha küçük çaplı bir etkinlikle sağlamak ve konuşmacılar ile öğrencileri daha kolay bir araya getirerek bilgi akışını kolaylaştırmaktır. Bu etkinlik, yaklaşık 30 katılımcı ile gerçekleştirilecektir. Bu sayede, katılımcılar arasında daha yakın bir etkileşim sağlanarak, daha kişisel ve interaktif bir deneyim sunulması hedeflenmektedir.
+ 
+Workshop
+Kulüp üyelerimize özellikle teknik açıdan deneyimi olmayan üyelerimize yönelik küçük projeler hazırlatarak, mühendislik yolunda sağlam bir temel oluşturmayı hedefliyoruz.
+
+
+WIE
+
+IEEE WIE (Women in Engineering), kadın
+ve erkeklerin bilim, teknoloji, matematik
+ve mühendislik alanlarında eşitliğini ön
+görür ve bu konularda çalışmalar yapan
+global gruplardan biridir. Kadın erkek
+eşitliği ile alakalı yaşanan problemlere
+değinip bu problemlerin çözümlerine
+odaklanır. Kadın ve erkek üyelerimiz ile
+birlik olarak hem kendi içimizdeki hem
+de çevremizdeki ön yargıları kırmayı
+amaçlayıp mühendislik kavramının
+cinsiyet kavramından bağımsız olduğunu
+vurgulayarak bizlere örnek olacak
+başarılı iş insanları ile bir araya gelip,
+kendimizi teknik ve sosyal anlamda
+geliştirmeyi hedefliyoruz.
+
+Why Not?
+IEEE KOU WIE ailesi olarak gelenekselleştirdiğimiz etkinliğimiz olan “Why Not? ” alanlarında başarılı, isimlerini oldukça duyduğumuz konukların katıldığı bir salon etkinliğidir. Her sene düzenlenen bu etkinlikte katılımcılarımız kalıplaşan cinsiyet algısını kırarak bizim bulunduğumuz noktadan kendilerinin geldikleri konuma kadar neler yaşadıklarını ve sosyal yaşantılarını etkileşimli şekilde anlatıp kendi tecrübelerini paylaşarak bizleri aydınlattıkları, her bölümden üniversite öğrencilerine iş hayatında kadın erkek eşitliğinin önemini ve cinsiyet algısının kırılmasında rol oynamamız gerektiğini belirtmek istediğimiz bir etkinliktir. 
+
+
+Diğer etkinliklerimiz(wie)
+
+Mor masa
+Bu etkinliğimizdeki temel amacımız üyelerimize teknik açıdan bir şeyler katabilecek küçük projeler yaparak, üyelerimize ekip çalışmasını aşılamak. Ekip arkadaşlarımızla bu sene geçtiğimiz senelerde gerçekleştirilen alarm devriyesi ve foto sensör gibi teknik bir proje gerçekleştirmeyi planlıyoruz. 
+
+Teknik geziler
+Sektörde başarılı kurum ve kuruluşlara giderek çalışma hayatına başlamadan nasıl bir ortamda çalışacağımızı görebileceğimiz ve fikir sahibi olabileceğimiz bu gezilerde network oluşturup staj imkanı sağlayabilmeyi amaçlıyoruz
+
+
+AESS
+AESS, havacılık ve elektronik sistemler, havacılık ile ilgili uçuş simülasyon sistemleri, havacılık elektroniği ve temel aerodinamiğe dayanan yenilikçi ve dinamik bir IEEE teknik topluluğudur. Topluluk; uzay, elektronik ve savunma endüstrisini temel alarak meraklılarına ve kendini bu alanlarda geliştirmek isteyenlere eşsiz fırsatlar sunar. IEEE AESS olarak misyonumuz doğrultusunda yenilikçi projeler üretir, bu projeleri yapmak için gerekli eğitimleri verir ve teknik seminerler düzenleriz. 
+
+DEF-SUM
+İlkini gerçekleştirdiğimiz Savunma Zirvesi etkinliğimizi geliştirip daha kapsamlı bir hale getirip Aralık ayında ikincisini düzenlemeyi hedefliyoruz. Bu alana ilgisi olan üyelerimizi bilgilendirip sektördeki insanlarla da tanışmayı hedefliyoruz.
+
+Diğer etkinliklerimiz(aess)
+
+TECH&TALK
+Havacılık, uzay ve savunma sanayii alanında çalışan ve tecrübelerini bizimle paylaşacak yetkin kişiler ile Kasım ve Mart aylarında olmak üzere 2 tane tech&talk etkinliği planlıyoruz.
+
+TEKNİK GEZİ
+Üyelerimizin gelecekte çalışacakları ortamları önceden görebilmeleri için planladığımız, sektör hakkında çeşitli bilgiler elde edecekleri ve çeşitli deneyimlere sahip olacakları Teknik gezileri gerçekleştirmeyi planlıyoruz 
+
+
+PİTEK
+
+IEEE Kocaeli’nin en büyük salon etkinliği
+olan PİTEK Günleri’nin geçtiğimiz sene
+11.sini düzenledik. Ford Otosan, Baykar,
+Aselsan, Türk Havacılık ve Uzay Sanayii
+(TUSAŞ) gibi firmalardan üst düzey
+yetkilileri ağırladığımız bu etkinlikte hem
+konuklarımızın firmaları hakkında bilgi
+edindik hem de konuklarımızın kariyerleri
+boyunca kazandıkları tecrübelerinden
+faydalanma imkânı bulduk. Bunun yanı
+sıra sosyal konuk olarak etkinliğimize
+davet ettiğimiz Dijital İçerik Üreticisi ve
+Youna Paper kurucusu Ecmel Soylu ile
+güzel bir söyleşi yaparak kendi girişimini
+kurmuş bir kişinin ne gibi sorunlar
+yaşadığını ve bu sorunlarla nasıl başa
+çıktığını öğrendik. 2023 - 2024
+döneminde düzenleyeceğimiz 12. PİTEK
+Günleri etkinliği için çalışmalarımıza tüm
+hızıyla devam ediyoruz.
+
+PİTEK (Profesyonel İş ve
+Teknoloji) Günleri, her alandan
+insanları iş hayatına hazırlamayı
+ve kariyerlerinde fark
+yaratmalarını sağlamayı hedefler.
+Sektörden mühendisler,
+yöneticiler ve girişimciler ile
+gençleri buluşturarak onların
+kıymetli deneyimleri hakkında
+bilgi sahibi olmamızı sağlar.
+
+
+
+EA
+Educational activities (EA),
+üniversite öncesi eğitime daha fazla
+dikkat çekmek, eğitimdeki
+problemlere çözüm odaklı çalışmalar
+yapmak ve akabinde bunları
+geliştirme amacı taşır. EA, vereceği
+eğitimler, yapacağı çalışmalar
+öncülüğünde öğrencilere bu alanları
+sevdirmeyi, bilgilendirmeyi ve
+onlarda merak uyandırmayı
+amaçlamaktadır. Bunların
+beraberinde IEEE ile yeni tanışan
+kişiler için IEEE’nin topluma yansıyan
+bir tarafı olacaktır.
+
+EA KAMPI
+Üyelerimize profesyonel hayata hazırlık ve kişisel gelişimi sağlamak amacıyla iş hayatlarında yetkinlik kazanmış konuklarımız sayesin de gerekli eğitimler kapsamında; CV hazırlama teknikleri, mülakatsimülasyonları, Microsoft Office eğitimleri ve workshoplar ile hem yetkinliklerini arttırıyor,yeni bakış açıları kazandırıyor hem de üyeler arasındaki sosyalleşme ve kaynaşmayı artırma fırsatı sunuyor.
+
+Diğer etkinliklerimiz(ea)
+
+KÖY VE ÇEVRE OKULLARA DESTEK 
+Kütüphane konusunda eksik olan köy okullarına ve orada eğitim gören öğrencilere çeşitli destekler ve kütüphane desteği yapmayı amaçlıyoruz.
+
+HOUR OF CODE
+Günümüzde “kod okuryazarlığı” önemli bir kavram olarak öne çıkıyor. Kod yazmanın inovatif düşünmeyi ve girişimciliği teşvik ettiğine inanan global code.org girişimi tüm dünyada herkesi kod yazmaya davet eden ve cesaretlendiren çeşitli etkinlikler düzenlenmesine öncülük ediyor. Genellikle ortaokul seviyesindeki öğrencilerle birlikte yaptığımız bu etkinlikle öğrencileri kod yazmaya ve bilişime heveslendirmeyi amaçlıyoruz. 
+
+
+
+KÖK
+Kardeş Öğrenci Kolları Projesi (KÖK), IEEE
+Türkiye'nin öğrenci kulüpleri arasındaki
+iletişimi ve bilgi paylaşımını geliştirmeyi
+amaçlayan bir girişimdir. Bu proje, öğrenci
+kulüplerini bir araya getirerek ortak çalışmayı
+teşvik eder ve akademik, teknik ve sosyal
+açıdan hem bireysel hem de kurumsal olarak
+güçlü bir yapı oluşturmayı hedefler. Ayrıca,
+Türkiye'deki en önemli ve başarılı öğrenci ağı
+olan IEEE Türkiye Öğrenci Kolları'nın bir
+parçası olarak tanınır. Kardeş Öğrenci Kolları
+Projesi, farklı zamanlarda düzenlenen
+etkinliklerle öğrenci kulüpleri arasındaki
+etkileşimi canlı tutmayı amaçlar. Bu proje,
+öğrenciler arasında popüler ve ilgi çekici bir
+konumda bulunarak öğrencilerin dikkatini
+çeker.
+
+
+TANIŞMA GALASI
+Her sene başı yapılan bu gala gecemizde
+hedefimiz yeni üyelerimizi aramıza katmak ve
+eski üyelerimizle kaynaştırmak, kulübün sosyal
+anlamda zenginliğini göstermek ve eğlenceli
+vakit geçirmektir. Resmi kıyafetlerle katılım
+sağladığımız bu gala yemeğinde karaoke, çeşitli
+oyunlar ve çekilişler gerçekleştirip sonrasında
+ise after partimizle etkinliğimizi noktalayacağız
+
+Lokal kongre
+IEEE KOÜ olarak yeni üyelerimize komite ve
+koordinatörlüklerimizin sene içerisindeki
+planlarını ve kulübe katacağı değerlerin
+anlatıldığı dönemin ilk büyük etkinliğidir. Amaç
+üyelerin sene içerisindeki işleyiş hakkında bilgi
+sahibi olmasıdır.
+
+Diğer ekinliklerimiz
+
+Kamp, piknik, turnuvalar(bilgisayar oyunları,futbol, voleybol), kamp.
+
+
+TECHNIC
+
+IEEE KOU Technic, 2019 yılında Kocaeli Üniversitesi’nin IEEE Kulübü’nün altında kurulmuştur. IEEE KOU Technic’in ilk projesi bir 6x6 Rover aracıdır. Bu aracın şase ,elektronik kartları ve yazılımları tamamen Technic altında çalışan öğrenciler tarafından yerli ve
+milli olarak tasarlanmış ve üretilmiştir. Katılacağı yarışmanın raporlama puanlandırmasında en yakın rakibine 32 puan fark atarak en yüksek puanı almıştır fakat ülkemizde gerçekleşen Covid-19 salgınından ötürü yarışma ertelenmiştir ve günümüzde hala düzenlenen bu yarışmanın puanlandırması yapmış olduğumuz araç esas alınarak tekrardan düzenlenmiştir. 2021-2022 döneminde ise bu araç geliştirilerek insansız hareket kabiliyeti ve faydalı yük taşıma gibi özellikleri eklenerek Teknofest 2022’de finalist olarak Trabzon’da yarışmışlardır.
+
+2020-2021 senesinde ise gözü yükseklerde olan ekibimiz bir insansız hava aracı yapmayı hedef almıştır. Ekibimizin yapmış olduğu ve ismine Titrek verdikleri uçağın kendine özgü görev mekanizması, huş ağacından yapılmış şasesi, aviyoniği, görüntü işleme çalışmaları ile Teknofest 2021’de dikkatleri üzerlerine çekmişlerdir. Teknofest 2021’in serbest kategori insansız hava aracı yarışmasında finalist olarak yarışma hakkı kazanmıştır ve bunu ilk döneminde yaparak büyük bir başarı elde etmişlerdir. 2021- 2022 senesinde ise ODTÜ ve Boeing’in birlikte düzenlemiş oldukları Uluslararası VTOL yarışması için C-KUS isimli dikey iniş kalkış yapma kabiliyetine sahip uçağı geliştirmiştir. Dünya’nın dört bir tarafından katılımcıların katılmış olduğu bu yarışmada 5. olmuşlardır. Ekibimiz önümüzdeki dönemde Teknofest Savaşan İHA yarışmasına katılacaktır. 
+
+
+Karada ve havada yarışlan ekibimiz denize
+de hakim olabilmek için Teknofest
+2022’nin ileri kategori insansız su altı aracı
+yarışmasına katılmaya karar vermiştir.
+Yerli, milli ve özgünlüğü hedefleyen
+takımımız ilk senesinde elektronik hız
+kontrolcüsü, güç dağıtım kartı tasarımı ve
+yazılımlarını yaparak büyük bir başarı elde
+etmişlerdir. Finalist olma hakkı kazanan
+ekibimiz gerekli maddi imkanların
+sağlanamaması nedeniyle yarışmadan
+çekilmek zorunda kalmışlardır.
+
+Yüksek motivasyon, ekip ruhu ve öğrenme
+aşkıyla çalışan, hava, kara ve deniz platformu
+için çeşitli projeler geliştiren ekiplerimiz üretmiş
+olduğu araçların geliştirilmesi ve üretimine
+2022-2023 sezonunda da yapmış oldukları
+çalışmalarını sergileyebilmek, diğer takımlarım
+yapmış oldukları gelişimleri takip edebilmek ve
+daha bir çok deneyimi kazanabilmek için ulusal
+ve uluslararası bir çok yarışmada boy
+göstermeyi hedeflemektedir.
+
+
+
+
+
+
+
