@@ -80,38 +80,25 @@ const AESS = () => {
           <Row className="justify-content-center align-items-center">
             <Col className = "justify-content-center align-items-center" lg={11}>
                       {/*diğer etkinlikler fotoğrafları verilecek*/}
-                    
-            <h1 style={{textAlign : "center", marginTop: 50}}>TECH&TALK</h1>
-        <Container style={{marginTop: 50}}>
-          <Row className="justify-content-md-center">
-            <Col xs lg="11">
-              
-            Havacılık, uzay ve savunma sanayii alanında çalışan ve tecrübelerini bizimle paylaşacak yetkin kişiler ile Kasım ve Mart aylarında olmak üzere 2 tane tech&talk etkinliği planlıyoruz.
-              
+                      <h2>TECH&TALK</h2>
+                      <br/>
+                      Havacılık, uzay ve savunma sanayii alanında çalışan ve 
+                      tecrübelerini bizimle paylaşacak yetkin kişiler ile Kasım ve 
+                      Mart aylarında olmak üzere 2 tane tech&talk etkinliği planlıyoruz.
+                      <br/>
+                      <br/>
+                      <h2>TEKNİK GEZİ</h2>
+                      <br/>
+                      Üyelerimizin gelecekte çalışacakları ortamları önceden görebilmeleri için planladığımız, sektör hakkında çeşitli bilgiler elde edecekleri ve çeşitli deneyimlere sahip olacakları Teknik gezileri gerçekleştirmeyi planlıyoruz
+
             </Col>
           </Row>
         </Container>
-
         <Container style={{marginTop: 50}}>
           <Row className="justify-content-center align-items-center">
             <Col  className = "justify-content-center align-items-center" lg={11}>
                   {/*Ana etkinlik sliderı bu şekilde tanımlanacak sadece yukarda fotoğrafları tanımlicaksınız*/}
             <Slider  photos = {SliderAPhotoList3}/>
-
-            </Col>
-          </Row>
-        </Container>
-
-        <h1 style={{textAlign : "center", marginTop: 50}}>TEKNİK GEZİ</h1>
-        <Container style={{marginTop: 50}}>
-          <Row className="justify-content-md-center">
-            <Col xs lg="11">
-              
-            Üyelerimizin gelecekte çalışacakları ortamları önceden görebilmeleri için planladığımız, sektör hakkında çeşitli bilgiler elde edecekleri ve çeşitli deneyimlere sahip olacakları Teknik gezileri gerçekleştirmeyi planlıyoruz
-              
-            </Col>
-          </Row>
-        </Container>
 
             </Col>
           </Row>
@@ -125,7 +112,7 @@ const AESS = () => {
             <Col md="auto">
               {/*link resim bölüm rol verilecek who we are sayfasında var oradan alabilirsiniz*/}
 
-            <PerCard name="Sude Mumcuoğlu" title = "AESS Komite Başkanı" src = {Sude} insta ={"https://www.instagram.com/sudemumcuoglu/"}/>
+            <PerCard name="Sude Mumcuoğlu" title = "AESS Komite Başkanı" src = {Sude} insta ={"https://www.instagram.com/sudemumcuoglu/"} major = "Metalurji Malzeme Mühendisliği"/>
 
             </Col>
           </Row>

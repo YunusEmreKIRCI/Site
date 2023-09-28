@@ -2,7 +2,7 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
 import 'bootstrap/dist/css/bootstrap.css';
-import {IoLogoInstagram, IoMailOutline, IoLogoLinkedin, IoLogoTwitter} from 'react-icons/io5';
+import {IoLogoInstagram, IoMailOutline, IoLogoLinkedin} from 'react-icons/io5';
 
 
 function PerCard(props){
@@ -23,7 +23,7 @@ function PerCard(props){
         <Card.Link href={props.insta}><IoLogoInstagram size = "28"/></Card.Link>
         <Card.Link href={props.mail}><IoMailOutline size = "31"/></Card.Link>
         <Card.Link href={props.linked}><IoLogoLinkedin size = "27"/></Card.Link>
-        <Card.Link href={props.twit}><IoLogoTwitter size ="26"/></Card.Link>
+        
       </Card.Body>
     </Card>
 

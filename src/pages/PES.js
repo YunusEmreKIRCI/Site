@@ -115,7 +115,7 @@ const PES = () => {
         <Container style={{marginTop: 50}}>
           <Row className="justify-content-md-evenly">
           <Col  md="auto">
-                    <PerCard name="Sabahaddin Aksakal" title = "PES Komite Başkanı" src = {Sabahattin} insta={"https://www.instagram.com/sabahaddin_akskl/"}/>
+                    <PerCard name="Sabahaddin Aksakal" title = "PES Komite Başkanı" src = {Sabahattin} insta={"https://www.instagram.com/sabahaddin_akskl/"} major = "Elektrik Mühendisliği"/>
                 </Col>
           </Row>
         </Container>

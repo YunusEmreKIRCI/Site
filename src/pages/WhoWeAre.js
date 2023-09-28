@@ -49,6 +49,18 @@ const WhoWeAre = () => {
             <br/>
             <h2 style={{textAlign: "center", marginTop: 50}}>Misyonumuz</h2>
             <hr/>
+            IEEE KOU üyelerinin sektörü tanıyan
+            ve takip eden mühendisler olmaları
+            için çalışmak, hayallerindeki iş ve
+            kariyer fırsatlarını yakalamaları için
+            sürekli destek sağlamak,
+            kariyerlerinde zirveye oynayan
+            üyelerimize hayatları boyunca
+            kopamayacakları arkadaşlıklardan
+            oluşan bir ağ oluşturarak takım
+            çalışmasının öğrenilmesi ve
+            geliştirilmesi konusunda yardımcı
+            olmaktır.
 
             </Col>
           </Row>

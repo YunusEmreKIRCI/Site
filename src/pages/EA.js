@@ -1,7 +1,7 @@
 //Eyüp ve Devran
 import Container from 'react-bootstrap/Container';
 //Ana logo
-import Logo from '../images/ieeekouea_beyaz.png';
+import Logo from '../images/ea/ieeekouea_beyaz.png';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Slider from "../components/Slider";
@@ -109,7 +109,7 @@ ve cesaretlendiren çeşitli etkinlikler düzenlenmesine öncülük ediyor. Gene
             <Col md="auto">
               {/*link resim bölüm rol verilecek who we are sayfasında var oradan alabilirsiniz*/}
 
-            <PerCard name="Zeynep Erdoğan" title = "EA Komite Başkanı" src = {Zeynep} insta ={"https://www.instagram.com/zeynperrdgnn/"}/>
+            <PerCard name="Zeynep Erdoğan" title = "EA Komite Başkanı" src = {Zeynep} insta ={"https://www.instagram.com/zeynperrdgnn/"} major= "Biyomedikal Mühendisliği"/>
 
             </Col>
           </Row>

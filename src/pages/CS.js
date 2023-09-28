@@ -97,7 +97,34 @@ const CS = () => {
         
 
         <h1 style={{textAlign : "center", marginTop: 50}}>DİĞER ETKİNLİKLERİMİZ</h1>
-        
+        <Container style={{marginTop: 50}}>
+          <Row className="justify-content-md-center">
+            <Col xs lg="11">
+              
+            <h2>Geeks Night</h2>
+            <br/>
+                Bu formatımız geçen yıl olduğu gibi bu yılda devam edecek. YouTube üzerinden canlı
+                gerçekleştirdiğimiz formatımıza daha çok yurtdışı 
+                bağlantılı konuklarımızı davet edip onlaarla soru 
+                cevap etkinliği düzenleyeceğiz.
+            <br/>            
+            <br/>
+            <h2>Teknik Eğitimler</h2>
+            <br/>
+            Üyelerimize hem bölümdeki derslerine yardımcı olacak hem 
+            de kariyer gelişimlerini olumlu yönde etkileyecek şekilde 
+            eğitimler düzenleyeceğiz. Bu sayede birlikte öğrenip akademik 
+            hayatımıza katkı saylayacağız.
+            <br/>
+            <br/>
+            <h2>Teknik Geziler</h2>
+            <br/>
+            Üyelerimize mezun olmadan önce çalışacakalrı ortam hakkında bilgi 
+            vermek ve okulda alınan teorik bilginin uygulamaya nasıl dönüştüğünü göstermek 
+            amacıyla teknik geziler düzenleyeceğiz.
+            </Col>
+          </Row>
+        </Container>
 
         <Container style={{marginTop: 50}}>
           <Row className="justify-content-center align-items-center">
@@ -118,7 +145,7 @@ const CS = () => {
             <Col md="auto">
               {/*link resim bölüm rol verilecek who we are sayfasında var oradan alabilirsiniz*/}
 
-            <PerCard name="Beril İsalar" title = "CS Komite Başkanı" src = {Beril} insta ={"https://www.instagram.com/beril_isalar/"}/>
+            <PerCard name="Beril İsalar" title = "CS Komite Başkanı" src = {Beril} insta ={"https://www.instagram.com/beril_isalar/"} major = "Bilgisayar Mühendisliği"/>
 
             </Col>
           </Row>
