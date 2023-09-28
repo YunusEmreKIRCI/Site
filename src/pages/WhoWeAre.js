@@ -16,7 +16,6 @@ import Uygar from '../images/Uygar.jpg';
 import Veli from '../images/Veli.jpg';
 import Utkan from '../images/Utkan.jpg';
 import Zeynep from '../images/Zeynep.jpg';
-import Logo from '../components/navimg.png';
 
 const WhoWeAre = () => {
 
@@ -24,26 +23,37 @@ const WhoWeAre = () => {
     <div>
    
        
-        <div style={{textAlign: "center", marginTop: 50}}>
-            <img src={Logo} alt="Logo" />
-        </div>
+     
         <div style={{ textAlign : "center", marginTop : 40, marginLeft: 150, marginRight: 150}}>
             <h1 style={{textAlign: "center", marginTop: 50}}>Who We Are?</h1>
             <hr/>
-            ATATÜRK’ÜN GENÇLİĞE HİTABESİ
-<br/>
-   Ey Türk gençliği! Birinci vazifen; Türk istiklalini, Türk cumhuriyetini, ilelebet muhafaza ve müdafaa etmektir.<br/>
-
-   Mevcudiyetinin ve istikbalinin yegâne temeli budur. Bu temel, senin en kıymetli hazinendir. İstikbalde dahi seni bu hazineden mahrum etmek isteyecek dâhilî ve haricî bedhahların olacaktır. Bir gün, istiklal ve cumhuriyeti müdafaa mecburiyetine düşersen, vazifeye atılmak için içinde bulunacağın vaziyetin imkân ve şeraitini düşünmeyeceksin. Bu imkân ve şerait, çok namüsait bir mahiyette tezahür edebilir. İstiklal ve cumhuriyetine kastedecek düşmanlar, bütün dünyada emsali görülmemiş bir galibiyetin mümessili olabilirler. Cebren ve hile ile aziz vatanın bütün kaleleri zapt edilmiş, bütün tersanelerine girilmiş, bütün orduları dağıtılmış ve memleketin her köşesi bilfiil işgal edilmiş olabilir. Bütün bu şeraitten daha elim ve daha vahim olmak üzere, memleketin dâhilinde iktidara sahip olanlar, gaflet ve dalalet ve hatta hıyanet içinde bulunabilirler. Hatta bu iktidar sahipleri, şahsi menfaatlerini müstevlilerin siyasi emelleriyle tevhit edebilirler. Millet, fakruzaruret içinde harap ve bitap düşmüş olabilir.
-
-  <br/> Ey Türk istikbalinin evladı! İşte, bu ahval ve şerait içinde dahi vazifen, Türk istiklal ve cumhuriyetini kurtarmaktır. Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur.
-
-  <br/>Mustafa Kemal Atatürk
-
-Paylaş:  
- Save
-
         </div>
+        <Container style={{marginTop: 50}}>
+          <Row className="justify-content-md-center">
+            <Col xs lg="11">
+            <h2 style={{textAlign: "center", marginTop: 50}}>Kocaeli'de IEEE</h2>
+            <hr/>
+            Kocaeli Üniversitesi IEEE Kulübü , 2010 yılında
+            Kocaeli Üniversitesi öğrencileri tarafından
+            kurulmuş ve başta mühendislik öğrencileri
+            olmak üzere, tüm sosyal branşlardaki
+            öğrencilere kapılarını açan, gerek ülke çapında
+            gerekse uluslararası düzeyde projelere katılma
+            şansı tanıyan, bünyesinde barındırdığı
+            milyonlarca e - dergi ve teknik magazinlerden
+            faydalanma imkânı tanıyan, staj ve iş bulmada
+            kolaylık sağlayan ve kaliteli şirketler tarafından
+            aranan bir CV veri tabanına sahip olan IEEE
+            markasının bünyesinde yapılanan IEEE öğrenci
+            kollarından birisidir.
+            <br/>
+            <h2 style={{textAlign: "center", marginTop: 50}}>Misyonumuz</h2>
+            <hr/>
+
+            </Col>
+          </Row>
+        </Container>
+
         <Container>
             <Row className="justify-content-md-evenly" style={{marginTop: 150}}>
                 <Col md="auto">

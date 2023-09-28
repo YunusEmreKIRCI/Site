@@ -102,7 +102,7 @@ export default function App() {
       </section>
 
       <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
-       Powered by IEEE KOU CS Web Team
+       Powered by IEEE KOU Turing's Rookies
       </div>
     </MDBFooter>
   );

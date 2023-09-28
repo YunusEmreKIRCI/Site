@@ -48,18 +48,8 @@ function Navbars() {
               </NavDropdown.Item>
                             
             </NavDropdown>
-            <NavDropdown title="Tecnical Teams" id="collapsible-nav-dropdown">
-              
-              <NavDropdown.Item href="IHA">
-                İHA
-              </NavDropdown.Item>
-              <NavDropdown.Item href="SUALTI">
-                Sualtı
-              </NavDropdown.Item>
-              
-                            
-            </NavDropdown>
-         
+          
+            <Nav.Link href="Turing">Tecnical Teams </Nav.Link>
           </Nav>
 
         </Navbar.Collapse>

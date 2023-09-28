@@ -2,14 +2,24 @@ import React from "react";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Logo from '../components/navimg.png';
 const Home = () => {
  
   return (
+
+    
     <div className="home">
-      <Container style={{marginTop: 50}}>
-          <Row className="justify-content-md-center">
-            <Col xs lg="11">
-                          IEEE NEDİR? <br/><br/>
+
+    
+    <Container style={{marginTop: 50}}>
+      <Row className="justify-content-md-center">
+        <Col xs lg="11"> 
+          <div style={{textAlign: "center", marginTop: 50}}>
+            <img src={Logo} alt="Logo" width="900"/>
+          </div>    
+          <h1 style={{textAlign : "center", marginTop: 50}}>IEEE NEDİR?</h1>
+              <br/>
+              <br/>                   
               The Institute of Electrical and Electronics
               Engineers ya da kısaca IEEE (Türkçe:
               Elektrik ve Elektronik Mühendisleri
@@ -41,24 +51,73 @@ const Home = () => {
               düzenleyerek üyeler arası
               iletişimi sağlar ve yeni ufuklar
               keşfedilmesine yardımcı olur.
-              
-        
-            </Col>
-          </Row>
-        </Container>
-        
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <ul>
+                <li>
+                Yılda 1600’den fazla konferans
+                </li>
+                <br/>
+                <br/>
+                <li>
+                3.900.000 teknik belge
+                </li>
+                <br/>
+                <br/>
+                <li>
+                1.300’den fazla standart
+                </li> 
+                <br/>
+                <br/>
+                <li>
+                1100’den fazla aktif standart,500’den fazla geliştirilen standart
+                </li>
+                <br/>
+                <br/>
+                <li>
+                39 Teknik Kurum ve 1 Teknik
+                Konsey, IEEE, üyelerinin hayat
+                boyu süren öğrenim sürecinde
+                onlara mesleki açıdan çok önemli
+                yardımlarda bulunur; ulusal ve
+                uluslararası konferanslar,
+                seminerler, kariyer geliştirme ve
+                network üzerine mesleki
+                toplantılar
+                </li>
+                <br/>
+                <br/>
+                <li>
+                Gönüllü aktiviteler ile liderlik ve
+                diğer kişisel becerileri geliştirme
+                fırsatı
+                </li>
+                <br/>
+                <br/>
+                <li>
+                300’den fazla sürekli eğitim ve
+                geliştirme programı
+                </li>
+                <br/>
+                <br/>
+                <li>
+                Kariyer yönetimi ekipmanları ve
+                kaynak materyaller
+                </li>
+                <br/>
+                <br/>
+                <li>
+                Finansal servisler ve portatif yarar
+                programları gibi imkanlar sağlar.
+                </li>
+              </ul>       
 
-
-TÜRKİYE'DE IEEE KOCAELİ'DE IEEE
-IEEE Türkiye Bölümü, Türkiye
-Cumhuriyeti'nin coğrafi alanını
-kapsamaktadır ve mayıs 2016 itibarıyla
-1400'den fazla global kayıtlı aktif üye
-bulunmaktadır. Türkiye bölümü, Avrupa,
-Orta Doğu ve Afrika'dan oluşan 8. bölgeye
-aittir.
-
-    </div>
+        </Col>
+      </Row>
+    </Container>
+  </div>
   );
 };      
 export default Home;
