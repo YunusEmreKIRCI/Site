@@ -5,11 +5,12 @@ import Slider from "../components/Slider";
 import PerCard from "../components/PerCard";
 import Container from 'react-bootstrap/Container';
 import Logo from "../images/pitek/ieeekoupitek_beyaz1.png";
+import Hasan from "../images/Hasan.jpg";
 import Sliderap1 from "../images/pitek/3.png";
 import Sliderap2 from "../images/pitek/pitek1.png";
 import Sliderap3 from "../images/pitek/pitek2.png";
 import Sliderap4 from "../images/pitek/pitek.png";
-import Hasan from "../images/Hasan.jpg";
+
 const PITEK = () => {
 
   const SliderAPhotoList = [
