@@ -37,7 +37,7 @@ const WIE = () => {
         <div style = {{ textAlign: "center", marginTop: 50}}>
         <img src = { Logo }
         alt = "Logo"
-        width = "900" />
+        style = {{width : '100%'}} />
         </div> { /*Ana tanıtım yazısı konteynırı yazı değişecek yine yazıyı alacaksınız */ } 
         <Container style = {{ marginTop: 50}}>
         <Row className = "justify-content-md-center" >
@@ -98,14 +98,14 @@ const WIE = () => {
             <Container style = {
             { marginTop: 50 } } >
         <Row className = "justify-content-md-evenly justify-content-sm-center" >
-        <Col xs={6} md = "auto" >
+      
         <PerCard name = "Beyza AYAZ"
         title = "WIE Komite Başkanı"
         src = { Beyza }
         insta = { "https://www.instagram.com/byza.ayaz/" }
         major = "Endüstri Mühendisliği"
         /> 
-        </Col> 
+      
         </Row> 
         </Container>
 

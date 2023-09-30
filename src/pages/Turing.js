@@ -36,20 +36,20 @@ const Turing = () => {
     {key : 7 , value : Sliderap7},
    
   ]
+  
     return (
       <div>
          <div style={{textAlign: "center", marginTop: 50}}>
-            <img src={Logo} alt="Logo" width="600"/>
-        </div>
+            <img src={Logo} alt="Logo" style = {{width : '50%'}}/>
+         </div>
         
       <Container style={{marginTop: 50}}>
-      <Row className="justify-content-md-evenly">
-        
+      <Row className="justify-content-md-evenly">        
         <Col xs={6} md={4}>
-          <Image src = {IhaLogo} roundedCircle />
+          <Image src = {IhaLogo} roundedCircle style= {{width : "95%"}} />
         </Col>
         <Col xs={6} md={4}>
-          <Image src = {SuLogo} roundedCircle />
+          <Image src = {SuLogo} roundedCircle   style={{width : "95%"}}/>
         </Col>
       </Row>
     </Container>
