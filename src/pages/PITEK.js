@@ -86,7 +86,7 @@ const PITEK = () => {
             <Col md="auto">
 
             <PerCard name="Hasan Kayar" title = "12. Pitek Günleri Koordinatörü" src = {Hasan} linked = "http://linkedin.com/in/hasan-kayar8a84791b6"
-            mail = "hasankayar01.11@gmail.com"/>
+            mail = "hasankayar01.11@gmail.com" major = "Elektrik Mühendisliği"/>
 
             </Col>
           </Row>

@@ -2,14 +2,40 @@ import React from "react";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Slider from "../components/Slider";
 import Image from "react-bootstrap/Image"
 import PerCard from "../components/PerCard";
 import Uygar from '../images/Uygar.jpg';
 import Logo from '../images/gan1i9i.jpeg';
 import IhaLogo from '../images/İhaLogo.jpg';
 import SuLogo from '../images/SualtiLogo.jpg';
-const Turing = () => {
+import Sliderap1 from "../images/teknik/Tank1.png";
+import Sliderap2 from "../images/teknik/Sualtıfinal.jpg";
+import Sliderap3 from "../images/teknik/iha.png";
+import Sliderap4 from "../images/teknik/Naut.jpg";
+import Sliderap5 from "../images/teknik/Toplu.jpg";
+import Sliderap6 from "../images/teknik/Toplu2.jpg";
+import Sliderap7 from "../images/teknik/mekik666.png";
+import Taha from "../images/Taha.jpg";
+import Feyza from "../images/Feyza.jpg";
+import Hüseyin from "../images/Hüseyin.jpg";
+import Burak from "../images/Burak.jpg";
+import Yigit from "../images/Yiğit.jpg";
+import Kutay from "../images/Kutay.jpg";
+import Melih from "../images/Melih.jpg";
+import Emre from "../images/Emre.jpg";
 
+const Turing = () => {
+  const SliderAPhotoList = [
+    {key : 1 , value : Sliderap1},
+    {key : 2 , value : Sliderap2},
+    {key : 3 , value : Sliderap3},
+    {key : 4 , value : Sliderap4},
+    {key : 5 , value : Sliderap5},
+    {key : 6 , value : Sliderap6},
+    {key : 7 , value : Sliderap7},
+   
+  ]
     return (
       <div>
          <div style={{textAlign: "center", marginTop: 50}}>
@@ -77,7 +103,19 @@ const Turing = () => {
             </Col>
           </Row>
         </Container>
-        <h1 style={{textAlign : "center", marginTop: 50}}>IEEE KOU TEKNİK TAKIMLAR KOODİNATÖRÜ</h1>
+        
+        <Container style={{marginTop: 50}}>
+          <Row className="justify-content-center align-items-center">
+            <Col  className = "justify-content-center align-items-center" lg={11}>
+                  {/*Ana etkinlik sliderı bu şekilde tanımlanacak sadece yukarda fotoğrafları tanımlicaksınız*/}
+            <Slider  photos = {SliderAPhotoList}/>
+
+            </Col>
+          </Row>
+        </Container>
+
+        <h1 style={{textAlign : "center", marginTop: 50}}>YÖNETİM KADROSU</h1>
+      
         <Container style={{marginTop: 50}}>
           <Row className="justify-content-md-evenly">
             <Col md="auto">
@@ -87,6 +125,35 @@ const Turing = () => {
                     linked = "https://www.linkedin.com/in/uygarozturk/" mail = "m.uygarozturk@gmail.com"/>
             </Col>
           </Row>
+
+          <Row className="justify-content-md-evenly" style={{marginTop: 50}}>
+                <Col md="auto">
+                    <PerCard name="Kübra Serdar" title = "Başkan Yardımcısı" src = {Taha} major = "Elektronik Haberleşme Mühendisliği"
+                    linked = "https://www.linkedin.com/in/k%C3%BCbra-serdar-b2653920a/" mail = "kubraserdarrrr@gmail.com"/>
+                </Col>
+                <Col md="auto">
+                    <PerCard name="Edanur Çiftçi" title = "Finansal Koordinatör" src = {Uygar} major = "Metalurji Malzeme Mühendisliği" 
+                    linked = "https://www.linkedin.com/in/edanur-ciftci" mail = "edanuurc@gmail.com" insta = "https://instagram.com/edanurrc?igshid=NzZlODBkYWE4Ng=="/>
+                </Col>
+                <Col md="auto">
+                    <PerCard name="Muhammet Musata Şirin" title = "Genel Sekreter" src = {Emre} major = "Elektronik Haberleşme Mühendisliği" 
+                    linked = "https://www.linkedin.com/in/muhammet-mustafa-sirin/" mail = "muhammetmsirin@gmail.com" insta = "https://instagram.com/mhammetsrn?igshid=MzRlODBiNWFlZA=="/>
+                </Col>
+            </Row>
+            <Row className="justify-content-md-evenly" style={{marginTop: 50}}>
+                <Col md="auto">
+                    <PerCard name="Kübra Serdar" title = "Başkan Yardımcısı" src = {Burak} major = "Elektronik Haberleşme Mühendisliği"
+                    linked = "https://www.linkedin.com/in/k%C3%BCbra-serdar-b2653920a/" mail = "kubraserdarrrr@gmail.com"/>
+                </Col>
+                <Col md="auto">
+                    <PerCard name="Edanur Çiftçi" title = "Finansal Koordinatör" src = {Kutay} major = "Metalurji Malzeme Mühendisliği" 
+                    linked = "https://www.linkedin.com/in/edanur-ciftci" mail = "edanuurc@gmail.com" insta = "https://instagram.com/edanurrc?igshid=NzZlODBkYWE4Ng=="/>
+                </Col>
+                <Col md="auto">
+                    <PerCard name="Muhammet Musata Şirin" title = "Genel Sekreter" src = {Melih} major = "Elektronik Haberleşme Mühendisliği" 
+                    linked = "https://www.linkedin.com/in/muhammet-mustafa-sirin/" mail = "muhammetmsirin@gmail.com" insta = "https://instagram.com/mhammetsrn?igshid=MzRlODBiNWFlZA=="/>
+                </Col>
+            </Row>
         </Container>
       </div>
     );

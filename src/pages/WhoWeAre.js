@@ -83,7 +83,7 @@ const WhoWeAre = () => {
                     linked = "https://www.linkedin.com/in/edanur-ciftci" mail = "edanuurc@gmail.com" insta = "https://instagram.com/edanurrc?igshid=NzZlODBkYWE4Ng=="/>
                 </Col>
                 <Col md="auto">
-                    <PerCard name="Muhammet Musata Şirin" title = "Genel Sekreter" src = {Mami} major = "Elektronik Haberleşme Mühendisliği" 
+                    <PerCard name="Muhammet Mustafa Şirin" title = "Genel Sekreter" src = {Mami} major = "Elektronik Haberleşme Mühendisliği" 
                     linked = "https://www.linkedin.com/in/muhammet-mustafa-sirin/" mail = "muhammetmsirin@gmail.com" insta = "https://instagram.com/mhammetsrn?igshid=MzRlODBiNWFlZA=="/>
                 </Col>
             </Row>
