@@ -113,8 +113,8 @@ const PES = () => {
 
         <h1 style={{textAlign : "center", marginTop: 50}}>YÖNETİM KADROSU</h1>
         <Container style={{marginTop: 50}}>
-          <Row className="justify-content-md-evenly">
-          <Col  md="auto">
+          <Row className="justify-content-md-evenly justify-content-sm-center">
+          <Col xs={6} md="auto">
                     <PerCard name="Sabahaddin Aksakal" title = "PES Komite Başkanı" src = {Sabahattin} insta={"https://www.instagram.com/sabahaddin_akskl/"} major = "Elektrik Mühendisliği"/>
                 </Col>
           </Row>

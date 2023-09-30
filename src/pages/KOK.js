@@ -122,8 +122,8 @@ Kamp, piknik, turnuvalar(bilgisayar oyunları,futbol, voleybol), kamp.
 
         <h1 style={{textAlign : "center", marginTop: 50}}>YÖNETİM KADROSU</h1>
         <Container style={{marginTop: 50}}>
-          <Row className="justify-content-md-evenly">
-            <Col md="auto">
+          <Row className="justify-content-md-evenly justify-content-sm-center">
+            <Col xs={6} md="auto">
              
 
             <PerCard name="Veli Ersöz" title = "KOK Komite Başkanı" src = {Veli} insta ={"https://www.instagram.com/vel.dora.e/"} major = "Biyomedikal Mühendisliği" />

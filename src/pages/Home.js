@@ -2,7 +2,16 @@ import React from "react";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Image from "react-bootstrap/Image";
 import Logo from '../components/navimg.png';
+import Cs from '../images/komitelogo/Cs.jpg';
+import Ea from '../images/komitelogo/Ea.jpg';
+import Pes from '../images/komitelogo/Pes.jpg';
+import Aess from '../images/komitelogo/Aess.jpg';
+import Wie from '../images/komitelogo/wie.jpg';
+import Kok from '../images/komitelogo/kök.jpg';
+import Pitek from '../images/komitelogo/pitek.jpg';
+
 const Home = () => {
  
   return (
@@ -114,6 +123,34 @@ const Home = () => {
                 </li>
               </ul>       
 
+        </Col>
+      </Row>
+    </Container>
+    <h1 style={{textAlign : "center", marginTop: 50}}>Komitelerimiz</h1>
+    <Container style={{marginTop: 50}}>
+      <Row className="justify-content-md-evenly">        
+        <Col xs={6} md="auto">
+          <Image src = {Cs} roundedCircle />
+        </Col>
+        <Col xs={6} md = "auto">
+          <Image src = {Pes} roundedCircle />
+        </Col>
+        <Col xs={6} md = "auto">
+          <Image src = {Aess} roundedCircle />
+        </Col>
+        <Col xs={6} md = "auto">
+          <Image src = {Wie} roundedCircle />
+        </Col>
+      </Row>
+      <Row className="justify-content-md-evenly">
+      <Col xs={6} md = "auto">
+          <Image src = {Ea} roundedCircle />
+        </Col>
+        <Col xs={6} md = "auto">
+          <Image src = {Kok} roundedCircle />
+        </Col>
+        <Col xs={12} md = "auto">
+          <Image src = {Pitek} roundedCircle />
         </Col>
       </Row>
     </Container>

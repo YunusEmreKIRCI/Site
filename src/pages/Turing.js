@@ -16,13 +16,13 @@ import Sliderap4 from "../images/teknik/Naut.jpg";
 import Sliderap5 from "../images/teknik/Toplu.jpg";
 import Sliderap6 from "../images/teknik/Toplu2.jpg";
 import Sliderap7 from "../images/teknik/mekik666.png";
-import Taha from "../images/Taha.jpg";
-import Feyza from "../images/Feyza.jpg";
-import Hüseyin from "../images/Hüseyin.jpg";
+import Taha from "../images/Taha1.jpg";
+import Feyza from "../images/Feyza1.jpg";
+import Hüseyin from "../images/Hüseyin1.jpg";
 import Burak from "../images/Burak.jpg";
-import Yigit from "../images/Yiğit.jpg";
-import Kutay from "../images/Kutay.jpg";
-import Melih from "../images/Melih.jpg";
+import Yigit from "../images/Yiğit1.jpg";
+import Kutay from "../images/Kutay1.jpg";
+import Melih from "../images/Melih1.jpg";
 import Emre from "../images/Emre.jpg";
 
 const Turing = () => {
@@ -117,8 +117,8 @@ const Turing = () => {
         <h1 style={{textAlign : "center", marginTop: 50}}>YÖNETİM KADROSU</h1>
       
         <Container style={{marginTop: 50}}>
-          <Row className="justify-content-md-evenly">
-            <Col md="auto">
+          <Row className="justify-content-md-evenly justify-content-sm-center">
+            <Col xs={7} md="auto">
               {/*link resim bölüm rol verilecek who we are sayfasında var oradan alabilirsiniz*/}
 
               <PerCard name="Uygar Mehmet Öztürk" title = "Teknik Projeler Direktörü" src = {Uygar} major = "Elektrik Mühendisliği" 
@@ -126,32 +126,42 @@ const Turing = () => {
             </Col>
           </Row>
 
-          <Row className="justify-content-md-evenly" style={{marginTop: 50}}>
-                <Col md="auto">
-                    <PerCard name="Kübra Serdar" title = "Başkan Yardımcısı" src = {Taha} major = "Elektronik Haberleşme Mühendisliği"
+          <Row className="justify-content-md-evenly justify-content-sm-center" style={{marginTop: 50}}>
+                <Col xs={7} md="auto">
+                    <PerCard name="Taha Rıdvan Öztürk" title = "İHA Takım Kaptanı" src = {Taha} major = "Bilişim Sistemleri Mühendisliği"
                     linked = "https://www.linkedin.com/in/k%C3%BCbra-serdar-b2653920a/" mail = "kubraserdarrrr@gmail.com"/>
                 </Col>
-                <Col md="auto">
-                    <PerCard name="Edanur Çiftçi" title = "Finansal Koordinatör" src = {Uygar} major = "Metalurji Malzeme Mühendisliği" 
+                <Col xs={7} md="auto">
+                    <PerCard name="Feyza Nur Özver" title = "Sualtı Takım Kaptanı" src = {Feyza} major = "Elektronik Haberleşme Mühendisliği" 
                     linked = "https://www.linkedin.com/in/edanur-ciftci" mail = "edanuurc@gmail.com" insta = "https://instagram.com/edanurrc?igshid=NzZlODBkYWE4Ng=="/>
                 </Col>
-                <Col md="auto">
-                    <PerCard name="Muhammet Musata Şirin" title = "Genel Sekreter" src = {Emre} major = "Elektronik Haberleşme Mühendisliği" 
+                <Col xs={7} md="auto">
+                    <PerCard name="Yunus Emre Kırcı" title = "Turing's Rookies Takım Kaptanı" src = {Emre} major = "Bilgisayar Mühendisliği" 
                     linked = "https://www.linkedin.com/in/muhammet-mustafa-sirin/" mail = "muhammetmsirin@gmail.com" insta = "https://instagram.com/mhammetsrn?igshid=MzRlODBiNWFlZA=="/>
                 </Col>
             </Row>
-            <Row className="justify-content-md-evenly" style={{marginTop: 50}}>
-                <Col md="auto">
-                    <PerCard name="Kübra Serdar" title = "Başkan Yardımcısı" src = {Burak} major = "Elektronik Haberleşme Mühendisliği"
+            <Row className="justify-content-md-evenly justify-content-sm-center" style={{marginTop: 50}}>
+                <Col xs={7} md="auto">
+                    <PerCard name="Burak Çorak" title = " IHA Ar-Ge Aviyonik Ekip Lideri" src = {Burak} major = "Elektronik Haberleşme Mühendisliği"
                     linked = "https://www.linkedin.com/in/k%C3%BCbra-serdar-b2653920a/" mail = "kubraserdarrrr@gmail.com"/>
                 </Col>
-                <Col md="auto">
-                    <PerCard name="Edanur Çiftçi" title = "Finansal Koordinatör" src = {Kutay} major = "Metalurji Malzeme Mühendisliği" 
+                <Col xs={7} md="auto">
+                    <PerCard name="Kutay Paçal" title = "AUV Mekanik Ekip Lideri" src = {Kutay} major = "Bilgisayar Mühendisliği" 
                     linked = "https://www.linkedin.com/in/edanur-ciftci" mail = "edanuurc@gmail.com" insta = "https://instagram.com/edanurrc?igshid=NzZlODBkYWE4Ng=="/>
                 </Col>
-                <Col md="auto">
-                    <PerCard name="Muhammet Musata Şirin" title = "Genel Sekreter" src = {Melih} major = "Elektronik Haberleşme Mühendisliği" 
+                <Col xs={7} md="auto">
+                    <PerCard name="Melih Tozlu" title = "IHA Mekanik Ekip Lideri" src = {Melih} major = "Mekatronik Mühendisliği" 
                     linked = "https://www.linkedin.com/in/muhammet-mustafa-sirin/" mail = "muhammetmsirin@gmail.com" insta = "https://instagram.com/mhammetsrn?igshid=MzRlODBiNWFlZA=="/>
+                </Col>
+            </Row>
+            <Row className="justify-content-md-evenly justify-content-sm-center" style={{marginTop: 50}}>
+                <Col  xs={7} md="auto">
+                    <PerCard name="Yiğit Can Eroğlu" title = "IHA Yazılım Ekip Lideri" src = {Yigit} major = "Endüstri Mühendisliği" 
+                    linked = "https://www.linkedin.com/in/mervecagri" mail = "mervecagri14@gmail.com"/>
+                </Col> 
+                <Col  xs={7} md="auto">
+                    <PerCard name="Hüseyin Gün" title = "AUV Yazılım Ekip Lideri" src = {Hüseyin} major = "Elektronik Haberleşme Mühendisliği" 
+                    linked = "https://www.linkedin.com/in/uygarozturk/" mail = "m.uygarozturk@gmail.com"/>
                 </Col>
             </Row>
         </Container>

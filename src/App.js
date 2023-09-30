@@ -8,6 +8,7 @@ import EA from "./pages/EA";
 import PES from "./pages/PES";
 import AESS from "./pages/AESS";
 import WIE from "./pages/WIE";
+import Troll from "./pages/Troll";
 import Turing from "./pages/Turing";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import WhoWeAre from "./pages/WhoWeAre";
@@ -26,12 +27,13 @@ function App() {
   ]
   return (
     
-    <div>
+    <div style={{backgroundColor : " #141416", color :"white"}}>
       <Navbar />
       <SliderBig photos = {SliderBigPhotoList}/>
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/Troll" element={<Troll />} />
           <Route path="/PITEK" element={<PITEK />} />
           <Route path="/KOK" element={<KOK />} />
           <Route path="/Home" element={<Home />} />

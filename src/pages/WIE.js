@@ -97,8 +97,8 @@ const WIE = () => {
             { textAlign: "center", marginTop: 50 } } > YÖNETİM KADROSU </h1> 
             <Container style = {
             { marginTop: 50 } } >
-        <Row className = "justify-content-md-evenly" >
-        <Col md = "auto" >
+        <Row className = "justify-content-md-evenly justify-content-sm-center" >
+        <Col xs={6} md = "auto" >
         <PerCard name = "Beyza AYAZ"
         title = "WIE Komite Başkanı"
         src = { Beyza }

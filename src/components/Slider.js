@@ -9,7 +9,7 @@ function Slider(props){
          {props.photos.map((photo) => {
       return(
         <Carousel.Item>
-          <img
+          <img style = {{maxHeight : '1000px'}}
             className="d-block w-100"
             src = {photo.value}
             alt = "First slide"

@@ -7,7 +7,7 @@ import {IoLogoInstagram, IoMailOutline, IoLogoLinkedin} from 'react-icons/io5';
 
 function PerCard(props){
     return(
-      <Card style={{ width: '18rem' }}>
+      <Card style={{width: '18rem', backgroundColor : "#19181D", marginTop: 50, color :"white"}}>
       <Card.Img variant="top" src= {props.src}/>
       <Card.Body>
         <Card.Title style={{textAlign : "center"}}>{props.name}</Card.Title>
@@ -16,7 +16,7 @@ function PerCard(props){
         </Card.Text>
       </Card.Body>
       <ListGroup className="list-group-flush">
-        <ListGroup.Item  style={{textAlign : "center"}}>{props.major}</ListGroup.Item>
+        <ListGroup.Item  style={{textAlign : "center", backgroundColor : "#19181D", color : "white"}}>{props.major}</ListGroup.Item>
         
       </ListGroup>
       <Card.Body  style={{textAlign : "center"}}>

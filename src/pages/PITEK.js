@@ -82,8 +82,8 @@ const PITEK = () => {
 
         <h1 style={{textAlign : "center", marginTop: 50}}>YÖNETİM KADROSU</h1>
         <Container style={{marginTop: 50}}>
-          <Row className="justify-content-md-evenly">
-            <Col md="auto">
+          <Row className="justify-content-md-evenly justify-content-sm-center">
+            <Col xs={6} md="auto">
 
             <PerCard name="Hasan Kayar" title = "12. Pitek Günleri Koordinatörü" src = {Hasan} linked = "http://linkedin.com/in/hasan-kayar8a84791b6"
             mail = "hasankayar01.11@gmail.com" major = "Elektrik Mühendisliği"/>

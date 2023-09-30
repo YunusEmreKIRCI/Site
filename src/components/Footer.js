@@ -3,7 +3,8 @@ import { MDBFooter, MDBIcon } from 'mdb-react-ui-kit';
 
 export default function App() {
   return (
-    <MDBFooter bgColor='light' className='text-center text-lg-start text-muted'  style={{marginTop: 50}}>
+    
+    <MDBFooter bgColor='dark' className='text-center text-lg-start text-muted'  style={{marginTop: 50}}>
       <section className='d-flex justify-content-center  p-4 border-bottom'>
       
         <div >
@@ -17,7 +18,7 @@ export default function App() {
           <a href='https://www.linkedin.com/company/ieeekou/mycompany/' className='me-4 text-reset'>
             <MDBIcon color='secondary' fab icon='linkedin' size='2x'/>
           </a>
-          <a href='' className='me-4 text-reset'>
+          <a href='/Troll' className='me-4 text-reset'>
             <MDBIcon color='secondary' fab icon='github' size='2x'/>
           </a>
         </div>
@@ -25,9 +26,10 @@ export default function App() {
 
       
 
-      <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
+      <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)', color : "white"}}>
        Powered by IEEE KOU Turing's Rookies
       </div>
     </MDBFooter>
+    
   );
 }

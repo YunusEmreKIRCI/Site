@@ -140,9 +140,10 @@ const CS = () => {
       
 
         <h1 style={{textAlign : "center", marginTop: 50}}>YÖNETİM KADROSU</h1>
-        <Container style={{marginTop: 50}}>
-          <Row className="justify-content-md-evenly">
-            <Col md="auto">
+       
+        <Container  style={{marginTop: 50}}>
+          <Row className="justify-content-md-center justify-content-sm-center">
+            <Col md="auto" xs={6}>
               {/*link resim bölüm rol verilecek who we are sayfasında var oradan alabilirsiniz*/}
 
             <PerCard name="Beril İsalar" title = "CS Komite Başkanı" src = {Beril} insta ={"https://www.instagram.com/beril_isalar/"} major = "Bilgisayar Mühendisliği"/>
@@ -150,7 +151,7 @@ const CS = () => {
             </Col>
           </Row>
         </Container>
-
+        
     </div>
   );
 };      
