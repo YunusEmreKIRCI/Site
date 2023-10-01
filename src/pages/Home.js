@@ -11,6 +11,7 @@ import Aess from '../images/komitelogo/Aess.jpg';
 import Wie from '../images/komitelogo/wie.jpg';
 import Kok from '../images/komitelogo/kök.jpg';
 import Pitek from '../images/komitelogo/pitek.jpg';
+import Sponsor from '../images/Englishacademy.jpg';
 
 const Home = () => {
  
@@ -154,6 +155,13 @@ const Home = () => {
         </Col>
       </Row>
     </Container>
+    <h1 style={{textAlign : "center", marginTop: 50}}>Sponsorlarımız</h1>
+
+    <div href = "https://www.englishacademy.com.tr/" style={{textAlign: "center", marginTop: 50}}>
+      <a href = "https://www.englishacademy.com.tr/">
+            <img  href = "https://www.englishacademy.com.tr/" src={Sponsor} alt="Logo" style = {{width : '60%', height :"50%"}}/>
+      </a>
+    </div>    
   </div>
   );
 };      

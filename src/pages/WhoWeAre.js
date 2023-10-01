@@ -66,7 +66,7 @@ const WhoWeAre = () => {
           </Row>
         </Container>
 
-        <h2 style={{textAlign: "center", marginTop: 50}}>Yönetim Kurulu ve İdari Kurul</h2>
+        <h2 style={{textAlign: "center", marginTop: 50}}>Yönetim Kurulu</h2>
             <hr/>
 
         <Container>
@@ -92,7 +92,7 @@ const WhoWeAre = () => {
             </Row>
             <Row className="justify-content-md-evenly justify-content-sm-center" style={{marginTop: 50}}>
                 <Col xs ={7} md="auto">
-                    <PerCard name="Merve Çağrı " title = "Kurul Üyesi" src = {Merve} major = "Elektronik Haberleşme Mühendisliği" 
+                    <PerCard name="Merve Çağrı " title = "Genel Sekreter" src = {Merve} major = "Elektronik Haberleşme Mühendisliği" 
                     linked = "https://www.linkedin.com/in/mervecagri" mail = "mervecagri14@gmail.com"/>
                 </Col> 
                 <Col xs ={7} md="auto">
@@ -100,6 +100,8 @@ const WhoWeAre = () => {
                     linked = "https://www.linkedin.com/in/uygarozturk/" mail = "m.uygarozturk@gmail.com"/>
                 </Col>
             </Row>
+            <h2 style={{textAlign: "center", marginTop: 50}}>İdari Kurul</h2>
+            <hr/>
             <Row className="justify-content-md-evenly justify-content-sm-center" style={{marginTop: 50}}>
                 <Col xs ={7}  md="auto">
                     <PerCard name="Beril İsarlar" title = "CS Komite Başkanı" src = {Beril} major = "Bilgisayar Mühendisliği"

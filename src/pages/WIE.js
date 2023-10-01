@@ -8,6 +8,7 @@ import Col from 'react-bootstrap/Col';
 import Slider from "../components/Slider";
 import PerCard from "../components/PerCard";
 import Beyza from "../images/Beyza.jpg";
+import { IoLogoInstagram } from 'react-icons/io5';
 
 //Büyük etkinlik fotoğrafları
 import Sliderap1 from '../images/wie/teatalk.jpg';
@@ -102,13 +103,20 @@ const WIE = () => {
         <PerCard name = "Beyza AYAZ"
         title = "WIE Komite Başkanı"
         src = { Beyza }
+        linked = "https://www.linkedin.com/in/beyza-ayaz-90511b23a" mail = "ayazbeyza212@gmail.com"
         insta = { "https://www.instagram.com/byza.ayaz/" }
         major = "Endüstri Mühendisliği"
         /> 
       
         </Row> 
         </Container>
-
+        <div style={{textAlign: "center", marginTop: 50}}>
+            <h3 style={{textAlign : "center", marginTop: 50}}>Komite Sosyal Medya Hesaplarımız</h3>
+            <hr/>
+            <a href = "https://www.instagram.com/ieeekouwie/">
+              <IoLogoInstagram size = "28"/>
+            </a>
+        </div>   
         </div>
     );
 };

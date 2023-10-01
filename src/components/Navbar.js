@@ -53,6 +53,7 @@ function Navbars() {
             </NavDropdown>
           
             <Nav.Link href="Turing" style = {{color : "white"}}>Tecnical Teams </Nav.Link>
+            <Nav.Link href="https://docs.google.com/forms/d/e/1FAIpQLScSQz5RgtwjRVAmt0W6gs0ielBxEQxn2m-vmP-2nGQA2HfgpA/viewform" style = {{color : "white"}}>Üye Ol </Nav.Link>
           </Nav>
 
         </Navbar.Collapse>

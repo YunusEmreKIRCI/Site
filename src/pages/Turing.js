@@ -129,39 +129,39 @@ const Turing = () => {
           <Row className="justify-content-md-evenly justify-content-sm-center" style={{marginTop: 50}}>
                 <Col xs={7} md="auto">
                     <PerCard name="Taha Rıdvan Öztürk" title = "İHA Takım Kaptanı" src = {Taha} major = "Bilişim Sistemleri Mühendisliği"
-                    linked = "https://www.linkedin.com/in/k%C3%BCbra-serdar-b2653920a/" mail = "kubraserdarrrr@gmail.com"/>
+                    linked = "https://www.linkedin.com/in/taharidvanozturk/" insta = "https://www.instagram.com/taharidvanozturk/"/>
                 </Col>
                 <Col xs={7} md="auto">
                     <PerCard name="Feyza Nur Özver" title = "Sualtı Takım Kaptanı" src = {Feyza} major = "Elektronik Haberleşme Mühendisliği" 
-                    linked = "https://www.linkedin.com/in/edanur-ciftci" mail = "edanuurc@gmail.com" insta = "https://instagram.com/edanurrc?igshid=NzZlODBkYWE4Ng=="/>
+                    linked = "https://www.linkedin.com/in/feyzanurozver/" />
                 </Col>
                 <Col xs={7} md="auto">
                     <PerCard name="Yunus Emre Kırcı" title = "Turing's Rookies Takım Kaptanı" src = {Emre} major = "Bilgisayar Mühendisliği" 
-                    linked = "https://www.linkedin.com/in/muhammet-mustafa-sirin/" mail = "muhammetmsirin@gmail.com" insta = "https://instagram.com/mhammetsrn?igshid=MzRlODBiNWFlZA=="/>
+                    linked = "https://www.linkedin.com/in/yunus-emre-k%C4%B1rc%C4%B1-5243201bb/" mail = "yunusemrekirci@gmail.com" />
                 </Col>
             </Row>
             <Row className="justify-content-md-evenly justify-content-sm-center" style={{marginTop: 50}}>
                 <Col xs={7} md="auto">
                     <PerCard name="Burak Çorak" title = " IHA Ar-Ge Aviyonik Ekip Lideri" src = {Burak} major = "Elektronik Haberleşme Mühendisliği"
-                    linked = "https://www.linkedin.com/in/k%C3%BCbra-serdar-b2653920a/" mail = "kubraserdarrrr@gmail.com"/>
+                    linked = "https://www.linkedin.com/in/burak-corak/" />
                 </Col>
                 <Col xs={7} md="auto">
                     <PerCard name="Kutay Paçal" title = "AUV Mekanik Ekip Lideri" src = {Kutay} major = "Bilgisayar Mühendisliği" 
-                    linked = "https://www.linkedin.com/in/edanur-ciftci" mail = "edanuurc@gmail.com" insta = "https://instagram.com/edanurrc?igshid=NzZlODBkYWE4Ng=="/>
+                    linked = "https://www.linkedin.com/in/kutaypacal/" />
                 </Col>
                 <Col xs={7} md="auto">
                     <PerCard name="Melih Tozlu" title = "IHA Mekanik Ekip Lideri" src = {Melih} major = "Mekatronik Mühendisliği" 
-                    linked = "https://www.linkedin.com/in/muhammet-mustafa-sirin/" mail = "muhammetmsirin@gmail.com" insta = "https://instagram.com/mhammetsrn?igshid=MzRlODBiNWFlZA=="/>
+                    linked = "https://www.linkedin.com/in/melih-tozlu-9024b0224/"/>
                 </Col>
             </Row>
             <Row className="justify-content-md-evenly justify-content-sm-center" style={{marginTop: 50}}>
                 <Col  xs={7} md="auto">
                     <PerCard name="Yiğit Can Eroğlu" title = "IHA Yazılım Ekip Lideri" src = {Yigit} major = "Endüstri Mühendisliği" 
-                    linked = "https://www.linkedin.com/in/mervecagri" mail = "mervecagri14@gmail.com"/>
+                    linked = "https://www.linkedin.com/in/badgerinator/" />
                 </Col> 
                 <Col  xs={7} md="auto">
                     <PerCard name="Hüseyin Gün" title = "AUV Yazılım Ekip Lideri" src = {Hüseyin} major = "Elektronik Haberleşme Mühendisliği" 
-                    linked = "https://www.linkedin.com/in/uygarozturk/" mail = "m.uygarozturk@gmail.com"/>
+                    linked = "https://www.linkedin.com/in/huseyin-gun/"/>
                 </Col>
             </Row>
         </Container>

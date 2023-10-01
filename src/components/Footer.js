@@ -9,7 +9,7 @@ export default function App() {
       
         <div >
           
-          <a href='' className='me-4 text-reset'>
+          <a href='https://twitter.com/IeeeKou' className='me-4 text-reset'>
             <MDBIcon color='secondary' fab icon='twitter' size='2x'/>
           </a>
           <a href='https://www.instagram.com/ieeekou/' className='me-4 text-reset'>
@@ -18,7 +18,7 @@ export default function App() {
           <a href='https://www.linkedin.com/company/ieeekou/mycompany/' className='me-4 text-reset'>
             <MDBIcon color='secondary' fab icon='linkedin' size='2x'/>
           </a>
-          <a href='/Troll' className='me-4 text-reset'>
+          <a href='' className='me-4 text-reset'>
             <MDBIcon color='secondary' fab icon='github' size='2x'/>
           </a>
         </div>
@@ -27,7 +27,7 @@ export default function App() {
       
 
       <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)', color : "white"}}>
-       Powered by IEEE KOU Turing's Rookies
+       Powered by IEEE KOU Turing<a href = "/Troll">'</a>s Rookies
       </div>
     </MDBFooter>
     

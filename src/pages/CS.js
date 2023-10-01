@@ -14,6 +14,7 @@ import Sliderap4 from "../images/cs/bilisim_vadisi_saykal.jpg";
 import Sliderap5 from "../images/cs/bilisim_vadisi_saykal_toplu.jpg";
 import Sliderap6 from "../images/cs/Bilisim_vadisi.jpg";
 import Sliderap7 from "../images/cs/geek_night.jpg";
+import { IoLogoInstagram } from 'react-icons/io5';
 
 const CS = () => {
   //1. Fotoğraf slider fotoğrafları
@@ -146,11 +147,18 @@ const CS = () => {
            
               {/*link resim bölüm rol verilecek who we are sayfasında var oradan alabilirsiniz*/}
 
-            <PerCard name="Beril İsalar" title = "CS Komite Başkanı" src = {Beril} insta ={"https://www.instagram.com/beril_isalar/"} major = "Bilgisayar Mühendisliği"/>
+            <PerCard name="Beril İsalar" title = "CS Komite Başkanı" src = {Beril} insta ={"https://www.instagram.com/beril_isalar/"} 
+            linked = "https://www.linkedin.com/in/beril-isalar-40a1ba256/" mail = "isalarberil@gmail.com" major = "Bilgisayar Mühendisliği"/>
 
           </Row>
         </Container>
-        
+        <div style={{textAlign: "center", marginTop: 50}}>
+            <h3 style={{textAlign : "center", marginTop: 50}}>Komite Sosyal Medya Hesaplarımız</h3>
+            <hr/>
+            <a href = "https://www.instagram.com/ieeekoucs/">
+              <IoLogoInstagram size = "28"/>
+            </a>
+        </div>    
     </div>
   );
 };      

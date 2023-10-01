@@ -10,6 +10,7 @@ import Sliderap1 from "../images/pitek/3.png";
 import Sliderap2 from "../images/pitek/pitek1.png";
 import Sliderap3 from "../images/pitek/pitek2.png";
 import Sliderap4 from "../images/pitek/pitek.png";
+import { IoLogoInstagram } from 'react-icons/io5';
 
 const PITEK = () => {
 
@@ -17,9 +18,7 @@ const PITEK = () => {
     {key : 1 , value : Sliderap1},
     {key : 2 , value : Sliderap2},
     {key : 3 , value : Sliderap3},
-    {key : 4 , value : Sliderap4},
-
-    
+    {key : 4 , value : Sliderap4},    
   ]
  
   return (
@@ -83,18 +82,17 @@ const PITEK = () => {
         <h1 style={{textAlign : "center", marginTop: 50}}>YÖNETİM KADROSU</h1>
         <Container style={{marginTop: 50}}>
           <Row className="justify-content-md-evenly justify-content-sm-center">
-        
-
             <PerCard name="Hasan Kayar" title = "12. Pitek Günleri Koordinatörü" src = {Hasan} linked = "http://linkedin.com/in/hasan-kayar8a84791b6"
-            mail = "hasankayar01.11@gmail.com" major = "Elektrik Mühendisliği"/>
-
-  
+            mail = "hasankayar01.11@gmail.com" major = "Elektrik Mühendisliği"/>  
           </Row>
         </Container>
-
-
-
-     
+        <div style={{textAlign: "center", marginTop: 50}}>
+            <h3 style={{textAlign : "center", marginTop: 50}}>Komite Sosyal Medya Hesaplarımız</h3>
+            <hr/>
+            <a href = "https://www.instagram.com/ieeekoupitek/">
+              <IoLogoInstagram size = "28"/>
+            </a>
+        </div>   
     </div>
   );
 };      

@@ -8,6 +8,7 @@ import Slider from "../components/Slider";
 import PerCard from "../components/PerCard";
 import Zeynep from "../images/Zeynep.jpg";
 //Büyük etkinlik fotoğrafları
+import { IoLogoInstagram } from 'react-icons/io5';
 import Sliderap1 from "../images/ea/ea.png";
 import Sliderap2 from "../images/ea/ea1.png";
 import Sliderap3 from "../images/ea/ea2.png";
@@ -109,12 +110,19 @@ ve cesaretlendiren çeşitli etkinlikler düzenlenmesine öncülük ediyor. Gene
        
               {/*link resim bölüm rol verilecek who we are sayfasında var oradan alabilirsiniz*/}
 
-            <PerCard name="Zeynep Erdoğan" title = "EA Komite Başkanı" src = {Zeynep} insta ={"https://www.instagram.com/zeynperrdgnn/"} major= "Biyomedikal Mühendisliği"/>
+            <PerCard name="Zeynep Erdoğan" title = "EA Komite Başkanı" src = {Zeynep} insta ={"https://www.instagram.com/zeynperrdgnn/"}
+             linked = "https://www.linkedin.com/in/zeynep-erdo%C4%9Fan-a50283228" mail = "zeynep.erdogann219@gmail.com" major= "Biyomedikal Mühendisliği"/>
 
            
           </Row>
         </Container>
-
+        <div style={{textAlign: "center", marginTop: 50}}>
+            <h3 style={{textAlign : "center", marginTop: 50}}>Komite Sosyal Medya Hesaplarımız</h3>
+            <hr/>
+            <a href = "https://www.instagram.com/ieeekoucs/">
+              <IoLogoInstagram size = "28"/>
+            </a>
+        </div>   
     </div>
   );
 };      

@@ -126,12 +126,13 @@ Kamp, piknik, turnuvalar(bilgisayar oyunları,futbol, voleybol), kamp.
          
              
 
-            <PerCard name="Veli Ersöz" title = "KOK Komite Başkanı" src = {Veli} insta ={"https://www.instagram.com/vel.dora.e/"} major = "Biyomedikal Mühendisliği" />
+            <PerCard name="Veli Ersöz" title = "KOK Komite Başkanı" src = {Veli} insta ={"https://www.instagram.com/vel.dora.e/"} 
+            linked = "https://www.linkedin.com/in/veli-ers%C3%B6z-24990622b" mail = "veliersozkou@gmail.com"  major = "Biyomedikal Mühendisliği" />
 
           
           </Row>
         </Container>
-
+        
     </div>
   );
 };

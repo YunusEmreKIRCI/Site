@@ -7,6 +7,7 @@ import Col from 'react-bootstrap/Col';
 import Slider from "../components/Slider";
 import PerCard from "../components/PerCard";
 import Sabahattin from '../images/Selo.jpg';
+import { IoLogoInstagram } from 'react-icons/io5';
 //Büyük etkinlik fotoğrafları
 import Sliderap1 from "../images/pes/2.png";
 import Sliderap2 from "../images/pes/pes.png";
@@ -115,10 +116,18 @@ const PES = () => {
         <Container style={{marginTop: 50}}>
           <Row className="justify-content-md-evenly justify-content-sm-center">
       
-                    <PerCard name="Sabahaddin Aksakal" title = "PES Komite Başkanı" src = {Sabahattin} insta={"https://www.instagram.com/sabahaddin_akskl/"} major = "Elektrik Mühendisliği"/>
+                    <PerCard name="Sabahaddin Aksakal" title = "PES Komite Başkanı" src = {Sabahattin} insta={"https://www.instagram.com/sabahaddin_akskl/"} 
+                     linked = "https://www.linkedin.com/in/sabahaddin-aksakal" mail = "sabahaddinaksakal217@gmail.com" major = "Elektrik Mühendisliği"/>
              
           </Row>
         </Container>
+        <div style={{textAlign: "center", marginTop: 50}}>
+            <h3 style={{textAlign : "center", marginTop: 50}}>Komite Sosyal Medya Hesaplarımız</h3>
+            <hr/>
+            <a href = "https://www.instagram.com/ieeekoupes/">
+              <IoLogoInstagram size = "28"/>
+            </a>
+        </div>   
     </div>
   );
 };      

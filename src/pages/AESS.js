@@ -6,14 +6,15 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Slider from "../components/Slider";
 import PerCard from "../components/PerCard";
+import { IoLogoInstagram } from 'react-icons/io5';
 import Sude from "../images/Sude.jpg";
 //Büyük etkinlik fotoğrafları
 import Sliderap1 from "../images/aess/aess.png";
 import Sliderap2 from "../images/aess/aess1.png";
 import Sliderap3 from "../images/aess/aess2.png";
-import Sliderap4 from "../images/aess/defsum_stand.jpg";
 import Sliderap5 from "../images/aess/aess3.png"
 import Sliderap6 from "../images/aess/aess4.png"
+
 
 const AESS = () => {
   //1. Fotoğraf slider fotoğrafları
@@ -21,9 +22,6 @@ const AESS = () => {
     {key : 1 , value : Sliderap1},
     {key : 2 , value : Sliderap2},
     {key : 3 , value : Sliderap3},
-  ]
-  const SliderAPhotoList2 = [
-    {key : 1 , value : Sliderap4},
   ]
 
   const SliderAPhotoList3 = [
@@ -115,12 +113,19 @@ const AESS = () => {
            
               {/*link resim bölüm rol verilecek who we are sayfasında var oradan alabilirsiniz*/}
 
-            <PerCard name="Sude Mumcuoğlu" title = "AESS Komite Başkanı" src = {Sude} insta ={"https://www.instagram.com/sudemumcuoglu/"} major = "Metalurji Malzeme Mühendisliği"/>
+            <PerCard name="Sude Mumcuoğlu" title = "AESS Komite Başkanı" src = {Sude} insta ={"https://www.instagram.com/sudemumcuoglu/"} 
+            linked = "https://www.linkedin.com/in/sude-mumcuo%C4%9Flu-804369252/" mail = "sudemumcuoglu@gmail.com" major = "Metalurji Malzeme Mühendisliği"/>
 
             
           </Row>
         </Container>
-
+        <div style={{textAlign: "center", marginTop: 50}}>
+            <h3 style={{textAlign : "center", marginTop: 50}}>Komite Sosyal Medya Hesaplarımız</h3>
+            <hr/>
+            <a href = "https://www.instagram.com/ieeekouea/">
+              <IoLogoInstagram size = "28"/>
+            </a>
+        </div>   
     </div>
   );
 };       
